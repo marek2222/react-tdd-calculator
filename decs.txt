@@ -1,0 +1,9 @@
+Test-Driven Development with React, Jest, and Enzyme - Part 1
+    https://testdriven.io/tdd-with-react-jest-and-enzyme-part-one
+
+
+1. 
+Create inicial project: 
+    npx create-react-app react-tdd-calculator
+
+
