@@ -36,3 +36,4 @@ Test-Driven Development with React, Jest, and Enzyme - Part 1
 --------------------------------------
 5:  App Component
     Write App Shallow Render Test
+    Write App Component
