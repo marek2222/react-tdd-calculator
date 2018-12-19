@@ -2,8 +2,27 @@ Test-Driven Development with React, Jest, and Enzyme - Part 1
     https://testdriven.io/tdd-with-react-jest-and-enzyme-part-one
 
 
+--------------------------------------
 1. 
-Create inicial project: 
-    npx create-react-app react-tdd-calculator
+    Create inicial project: 
+        npx create-react-app react-tdd-calculator
 
+--------------------------------------
+2.  Test Config
+
+    For testing, we’ll use Jest, a full-featured testing solution that comes with Create React App, and Enzyme, a powerful set of testing utilities for React.
+
+    Add Enzyme:
+        $ npm i -D enzyme
+
+    Enzyme requires react-test-renderer for React apps version 15.5 or greater:
+        $ npm i -D react-test-renderer enzyme-adapter-react-16
+
+    Add a new file in the “src” directory titled setupTests.js:
+        import { configure } from 'enzyme';
+        import Adapter from 'enzyme-adapter-react-16';
+
+        configure({ adapter: new Adapter() });
+
+    Create React App runs the setupTests.js file before each test, so it will execute and properly configure Enzyme.
 
