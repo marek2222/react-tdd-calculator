@@ -26,3 +26,10 @@ Test-Driven Development with React, Jest, and Enzyme - Part 1
 
     Create React App runs the setupTests.js file before each test, so it will execute and properly configure Enzyme.
 
+
+--------------------------------------
+3. Configure Font and Initial CSS
+        Import Application Font
+        Write CSS Variables
+
+
