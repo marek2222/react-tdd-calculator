@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 // or
 // import * as React from 'react';
 // import { Component } from 'react';
+import './Calculator.css';
 
 class Calculator extends Component {
     state = {
