@@ -10,7 +10,8 @@ describe('Display', () => {
         expect(wrapper.find('div').length).toEqual(1);
     });
 
-    // it('should render the Display Component', () => {
-    //     expect(wrapper.containsMatchingElement(<Display />)).toEqual(true);
-    // });
+    it('render the value of displayValue', () => {
+        wrapper.setProps({ displayValue: 'test' });
+        expect(wrapper.text()).toEqual('test');
+    });
 });

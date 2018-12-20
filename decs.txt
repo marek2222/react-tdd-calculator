@@ -49,4 +49,5 @@ Test-Driven Development with React, Jest, and Enzyme - Part 1
 
 7. Display Component
         Check for Display in Calculator
+        Display renders 'displayValue'
         
