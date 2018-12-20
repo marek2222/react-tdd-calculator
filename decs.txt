@@ -46,3 +46,7 @@ Test-Driven Development with React, Jest, and Enzyme - Part 1
         Add Snapshot Testing for App
         Add Calculator CSS
         
+
+7. Display Component
+        Check for Display in Calculator
+        
