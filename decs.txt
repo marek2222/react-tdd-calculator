@@ -53,3 +53,8 @@ Test-Driven Development with React, Jest, and Enzyme - Part 1
         Add Snapshot Testing for Display
         Add Display CSS
 
+8. Keypad Component
+        Add Keypad Component and Tests
+        Calculator Snapshot
+        
+
