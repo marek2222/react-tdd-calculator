@@ -53,8 +53,13 @@ Test-Driven Development with React, Jest, and Enzyme
         Add Snapshot Testing for Display
         Add Display CSS
 
-8. Keypad Component
+8. Keypad ComponentAdd Keypad CSS
         Add Keypad Component and Tests
         Calculator Snapshot
         Test for numbers and operators Rendering in Keypad
+        Add Keypad CSS
+
+9. Key Component
+        Check for Key in Keypad
+
 
