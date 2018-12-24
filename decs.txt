@@ -64,6 +64,7 @@ Test-Driven Development with React, Jest, and Enzyme
         Key renders keyValue
         Add Key CSS
         Add Snapshot Testing for Key
+        Refactor Keypad to use Key for numbers, operators, and submit
         
 
 
