@@ -63,6 +63,7 @@ Test-Driven Development with React, Jest, and Enzyme
         Check for Key in Keypad
         Key renders keyValue
         Add Key CSS
+        Add Snapshot Testing for Key
         
 
 
