@@ -1,6 +1,6 @@
-Test-Driven Development with React, Jest, and Enzyme - Part 1
+Test-Driven Development with React, Jest, and Enzyme
     https://testdriven.io/tdd-with-react-jest-and-enzyme-part-one
-
+    https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-two
 
 --------------------------------------
 2. 
@@ -56,5 +56,5 @@ Test-Driven Development with React, Jest, and Enzyme - Part 1
 8. Keypad Component
         Add Keypad Component and Tests
         Calculator Snapshot
-        
+        Test for numbers and operators Rendering in Keypad
 
