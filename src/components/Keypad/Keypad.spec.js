@@ -1,7 +1,6 @@
 import React from 'react';
 import { shallow } from 'enzyme';
 import Keypad from './Keypad';
-import { wrap } from 'module';
 
 describe('Keypad', () => {
     let wrapper;
