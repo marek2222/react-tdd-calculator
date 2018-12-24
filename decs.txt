@@ -61,5 +61,7 @@ Test-Driven Development with React, Jest, and Enzyme
 
 9. Key Component
         Check for Key in Keypad
+        Key renders keyValue
+        
 
 
