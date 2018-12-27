@@ -53,5 +53,8 @@ describe('Keypad', () => {
     it('renders the values of operators to the DOM', () => {
         wrapper.setProps({ operators: ['+', '-', '*', '/'] });
         expect(wrapper.find('.operators-container').text()).toEqual('+-*/');
-  });
+    });
+
+    it('should render correctly', () => expect(wrapper).toMatchSnapshot());
+    
 });

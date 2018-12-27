@@ -65,6 +65,8 @@ Test-Driven Development with React, Jest, and Enzyme
         Add Key CSS
         Add Snapshot Testing for Key
         Refactor Keypad to use Key for numbers, operators, and submit
+        Add Keypad snapshot
+        
         
 
 
