@@ -67,7 +67,11 @@ Test-Driven Development with React, Jest, and Enzyme
         Refactor Keypad to use Key for numbers, operators, and submit
         Add Keypad snapshot
         Refactor Calculator State
+                npm test --updateSnapshot
         
+10. Application Functions
 
+11. Click Event Tests
+        npm test --updateSnapshot
 
 
