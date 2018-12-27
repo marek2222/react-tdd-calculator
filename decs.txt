@@ -76,4 +76,7 @@ Test-Driven Development with React, Jest, and Enzyme
 
 12. Update Display Tests
 
+13. Set Operator Tests
+
+
 
