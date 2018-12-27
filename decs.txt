@@ -74,4 +74,6 @@ Test-Driven Development with React, Jest, and Enzyme
 11. Click Event Tests
         npm test --updateSnapshot
 
+12. Update Display Tests
+
 
