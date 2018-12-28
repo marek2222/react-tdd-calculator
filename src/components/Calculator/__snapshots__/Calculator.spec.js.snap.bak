@@ -23,31 +23,8 @@ ShallowWrapper {
         />,
         <Keypad
           callOperator={[Function]}
-          handleKeyPress={[Function]}
-          numbers={
-            Array [
-              "9",
-              "8",
-              "7",
-              "6",
-              "5",
-              "4",
-              "3",
-              "2",
-              "1",
-              ".",
-              "0",
-              "ce",
-            ]
-          }
-          operators={
-            Array [
-              "/",
-              "x",
-              "-",
-              "+",
-            ]
-          }
+          numbers={Array []}
+          operators={Array []}
           setOperator={[Function]}
           updateDisplay={[Function]}
         />,
@@ -73,27 +50,8 @@ ShallowWrapper {
         "nodeType": "function",
         "props": Object {
           "callOperator": [Function],
-          "handleKeyPress": [Function],
-          "numbers": Array [
-            "9",
-            "8",
-            "7",
-            "6",
-            "5",
-            "4",
-            "3",
-            "2",
-            "1",
-            ".",
-            "0",
-            "ce",
-          ],
-          "operators": Array [
-            "/",
-            "x",
-            "-",
-            "+",
-          ],
+          "numbers": Array [],
+          "operators": Array [],
           "setOperator": [Function],
           "updateDisplay": [Function],
         },
@@ -116,31 +74,8 @@ ShallowWrapper {
           />,
           <Keypad
             callOperator={[Function]}
-            handleKeyPress={[Function]}
-            numbers={
-              Array [
-                "9",
-                "8",
-                "7",
-                "6",
-                "5",
-                "4",
-                "3",
-                "2",
-                "1",
-                ".",
-                "0",
-                "ce",
-              ]
-            }
-            operators={
-              Array [
-                "/",
-                "x",
-                "-",
-                "+",
-              ]
-            }
+            numbers={Array []}
+            operators={Array []}
             setOperator={[Function]}
             updateDisplay={[Function]}
           />,
@@ -166,27 +101,8 @@ ShallowWrapper {
           "nodeType": "function",
           "props": Object {
             "callOperator": [Function],
-            "handleKeyPress": [Function],
-            "numbers": Array [
-              "9",
-              "8",
-              "7",
-              "6",
-              "5",
-              "4",
-              "3",
-              "2",
-              "1",
-              ".",
-              "0",
-              "ce",
-            ],
-            "operators": Array [
-              "/",
-              "x",
-              "-",
-              "+",
-            ],
+            "numbers": Array [],
+            "operators": Array [],
             "setOperator": [Function],
             "updateDisplay": [Function],
           },

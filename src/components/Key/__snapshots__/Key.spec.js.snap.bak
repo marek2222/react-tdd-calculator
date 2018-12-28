@@ -4,7 +4,6 @@ exports[`Key should render correctly 1`] = `
 ShallowWrapper {
   Symbol(enzyme.__root__): [Circular],
   Symbol(enzyme.__unrendered__): <Key
-    handleKeyPress={[MockFunction]}
     keyAction={[MockFunction]}
     keyType=""
     keyValue=""
@@ -28,8 +27,6 @@ ShallowWrapper {
         
       </p>,
       "className": "key-container ",
-      "onClick": [Function],
-      "onKeyPress": [Function],
     },
     "ref": null,
     "rendered": Object {
@@ -58,8 +55,6 @@ ShallowWrapper {
           
         </p>,
         "className": "key-container ",
-        "onClick": [Function],
-        "onKeyPress": [Function],
       },
       "ref": null,
       "rendered": Object {
